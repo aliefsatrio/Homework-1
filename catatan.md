@@ -1,9 +1,9 @@
-#KALKULATOR SEDERHANA
+# KALKULATOR SEDERHANA
 
-##Deskripsi Program
+## Deskripsi Program
 Program ini adalah kalkulator sederhana yang dapat melakukan empat operasi dasar: penjumlahan, pengurangan, perkalian, dan pembagian. Program ini berinteraksi langsung dengan pengguna melalui input dan output.
 
-##Alur Kerja Program
+## Alur Kerja Program
 1. Meminta Operasi:
 Program meminta pengguna untuk memilih operasi yang ingin dilakukan. Pengguna dapat memilih antara +, -, *, atau /.
 
@@ -23,11 +23,11 @@ Setelah melakukan perhitungan, program menampilkan hasilnya kepada pengguna.
 5. Validasi:
 Program juga memeriksa apakah operasi yang dimasukkan valid. Jika tidak, program akan memberi tahu pengguna bahwa operasinya tidak valid.
 
-##Contoh Penggunaan
+## Contoh Penggunaan
 Jika pengguna memilih + dan memasukkan angka 5 dan 3, program akan menampilkan 8.
 Jika pengguna memilih / dan memasukkan angka 10 dan 0, program akan menampilkan Error: Pembagian dengan nol.
 
-##Kesimpulan
+## Kesimpulan
 Program ini adalah contoh dasar dari penggunaan fungsi input/output, pengkondisian, dan operasi matematis dalam Python. Ini dapat diperluas dengan menambahkan lebih banyak fitur seperti operasi lebih lanjut atau penanganan kesalahan yang lebih baik. Jika ada yang ingin kamu ketahui lebih lanjut, silakan tanya!
 
 ![Integral](Gambar%20WhatsApp%202024-10-10%20pukul%2011.59.06_c5b2bf15.jpg)
